@@ -50,7 +50,7 @@ The relay uses short-lived in-memory grants. Stop pairing, leaving the verified 
 
 ## Build and verify
 
-The source and build inputs are being prepared for public review. No public Actions build or signed attestation has been produced yet. The current local test installer is unsigned. Do not disable Windows protection or dismiss a detection merely because it may be a false positive.
+The source and build inputs are public. The [0.1.2 preview](https://github.com/Hydrol528/vesper-keep-player/releases/tag/v0.1.2-preview) was built by [GitHub Actions](https://github.com/Hydrol528/vesper-keep-player/actions/runs/44549809851), with tests, a packaged self-check, SHA-256 checksums and an installer provenance attestation. The Windows installer is unsigned. Do not disable Windows protection or dismiss a detection merely because it may be a false positive.
 
 The release workflow will build from a visible source commit, publish SHA-256 checksums and generate GitHub artifact attestations. Attestations establish build provenance; they are not a security audit and do not prove the program has no bugs. An installer code-signing certificate is separate from GitHub provenance.
 
@@ -75,6 +75,6 @@ Replace the WiX example path with your extracted WiX folder. All build intermedi
 
 For source-only use, install `requirements-runtime.txt`, run `python src/service_entry.py`, then open `http://127.0.0.1:8097/`. Stop the source process when finished. The compiled desktop launcher is optional for source users.
 
-The prepared GitHub workflow is manual-only. It pins Actions by commit, verifies the WiX ZIP hash, installs hash-locked Python dependencies, runs unit checks, builds the MSI, generates an installer provenance attestation, and uploads the MSI/checksum as workflow artifacts. It does **not** publish a GitHub Release automatically. A successful hosted run still needs to be performed before a release can claim provenance.
+The prepared GitHub workflow is manual-only. It pins Actions by commit, verifies the WiX ZIP hash, installs hash-locked Python dependencies, runs unit checks, builds the MSI, generates an installer provenance attestation, and uploads the MSI/checksum as workflow artifacts. It does **not** publish a GitHub Release automatically. The linked 0.1.2 preview run completed successfully, including its provenance attestation.
 
 Installer validation: ICE91 is intentionally excluded because this package supports per-user installation only. Two font-language metadata warnings are currently reviewed and documented; they do not disable the remaining installer validation. Local install/uninstall testing covers a custom installation folder, shortcut registration, temporary cache cleanup, and preservation of a file outside the installation folder.

@@ -51,8 +51,8 @@
   },
   {
     "path": "README.md",
-    "sha256": "74fc60242c704138afe1894f3a28d3d346efdcc8e0ccb95d189d1fbed0e41b1f",
-    "bytes": 8573
+    "sha256": "4a234275943e5dae9be7e8f3d28a70d3f3e474c05f78a1615b5baa67018ac2cf",
+    "bytes": 8763
   },
   {
     "path": "requirements-build.lock",
