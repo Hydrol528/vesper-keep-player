@@ -1,0 +1,277 @@
+[
+  {
+    "path": ".github/workflows/windows-preview.yml",
+    "sha256": "8207279263fd951e00d7f6155df4828cb7bc9f30e1f30d4325f6ba4a4d1585b6",
+    "bytes": 1944
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "aabe84a5114a45d2d9fc4fc3ae0f37a601bd95844506d2c5e301730407ef2e71",
+    "bytes": 144
+  },
+  {
+    "path": "build-installer.py",
+    "sha256": "7fd25db14ba184f866ca7c6706f7008c450782ba26bc5bec2f8e1e976a8a861d",
+    "bytes": 5192
+  },
+  {
+    "path": "Build.ps1",
+    "sha256": "08794edf7ba0105485aadcd9f9af84dc3f29965520af95ed7b52a078154a7116",
+    "bytes": 3011
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "d264480a16b44c7a945dd38665c65699257f9b5b448fb8dc67c6a73e01d6d51d",
+    "bytes": 1081
+  },
+  {
+    "path": "Licenses/Cinzel-OFL.txt",
+    "sha256": "f2b3029aba64c378bf0963b62945eee15e564fe4330b934c8f2eb058282b5e83",
+    "bytes": 4383
+  },
+  {
+    "path": "Licenses/OpenSSL.txt",
+    "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+    "bytes": 10175
+  },
+  {
+    "path": "Licenses/Pillow.txt",
+    "sha256": "988ffe8ab3480b0f4e9a0ab2702bffd73d9fb6b47198043fb3ba101a62fac236",
+    "bytes": 78481
+  },
+  {
+    "path": "Licenses/PyInstaller-COPYING.txt",
+    "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64",
+    "bytes": 32604
+  },
+  {
+    "path": "Licenses/Python.txt",
+    "sha256": "78b12c3a81360b357002334f0e70ea0e92eebf7a9b358805c03c48484945f3bb",
+    "bytes": 13809
+  },
+  {
+    "path": "README.md",
+    "sha256": "74fc60242c704138afe1894f3a28d3d346efdcc8e0ccb95d189d1fbed0e41b1f",
+    "bytes": 8573
+  },
+  {
+    "path": "requirements-build.lock",
+    "sha256": "f92455404603c50d0f8ef94a0ad9ef4ba8ae86e818b7a0ccb724fbb4dc4df056",
+    "bytes": 802
+  },
+  {
+    "path": "requirements-build.txt",
+    "sha256": "2610f15afe0906dfa1c77647536a3106a177bab90bcaf4c231ebb0b3a00ab79e",
+    "bytes": 161
+  },
+  {
+    "path": "requirements-runtime.txt",
+    "sha256": "ae3337e5ae362bf1fad83355272ff595b58aae13d7a7ac67617f6f3161fa0c07",
+    "bytes": 15
+  },
+  {
+    "path": "src/app.js",
+    "sha256": "23802f4025809d816e10c5b8ea0441b5e2e93de802a0aa5ed249a22733660dab",
+    "bytes": 8024
+  },
+  {
+    "path": "src/app_paths.py",
+    "sha256": "eb83b1c406943847cea4a05fe7a4cef37150fd1365971e484190293329f11f3d",
+    "bytes": 339
+  },
+  {
+    "path": "src/audio_language.py",
+    "sha256": "46f2beb15cd4b8eb3b2c55ef662e8212044f05bbb59426342eeb1509022526b2",
+    "bytes": 778
+  },
+  {
+    "path": "src/connector.py",
+    "sha256": "f16d0873ce2f169280129060319d20c4c88b52603d6bebc1eaa31c820afd66f9",
+    "bytes": 20473
+  },
+  {
+    "path": "src/episode_sequence.py",
+    "sha256": "23a8a894faf027e47e44423ce7838a275a4809c9630c9310255835b6a6479ab3",
+    "bytes": 7251
+  },
+  {
+    "path": "src/fonts/Cinzel-OFL.txt",
+    "sha256": "f2b3029aba64c378bf0963b62945eee15e564fe4330b934c8f2eb058282b5e83",
+    "bytes": 4383
+  },
+  {
+    "path": "src/fonts/cinzel.ttf",
+    "sha256": "f4d83d34d1f6c741193e4acf4b3dff9531e5a67b6aa65228d00a7db72a4e0f34",
+    "bytes": 125468
+  },
+  {
+    "path": "src/fonts/liberation-sans.ttf",
+    "sha256": "e5b0af421ea2bfbc1ac8d251d647268087ae82786234c57f757d1f0b90fa8b49",
+    "bytes": 350200
+  },
+  {
+    "path": "src/fonts/LiberationSans-OFL.txt",
+    "sha256": "37f8552e9a874ec10710dc0ede6a9adf168e6609fbd02a507f35629373b85a48",
+    "bytes": 4469
+  },
+  {
+    "path": "src/index.html",
+    "sha256": "4ef8463ccbc36a335e599a70cab9210af9d1c0a8de72a73e23e897eb763876bf",
+    "bytes": 9193
+  },
+  {
+    "path": "src/jellyfin_transport.py",
+    "sha256": "9ad2206102c52b1789c809ebfef81489f170748ef17a3eeedcc8b75e9f2600f0",
+    "bytes": 6809
+  },
+  {
+    "path": "src/keep_client.py",
+    "sha256": "c57f0b6f49e6f4b167d4d0387175d4d9fd18606550f4149e2c09441a5b96a73c",
+    "bytes": 1055
+  },
+  {
+    "path": "src/local_peer.py",
+    "sha256": "ccfdac70818b07e00ad0ab484610ee0be40568e72e50429b913138c536e20567",
+    "bytes": 3597
+  },
+  {
+    "path": "src/login.html",
+    "sha256": "087c007f3e92fda36e636a905cb86e9f1119aca282ad1f0885a636964864eb29",
+    "bytes": 8109
+  },
+  {
+    "path": "src/login.js",
+    "sha256": "68fd007826ba3f6012efb7e5e149ea344e0efc7ff67f9a08a25c9a7f7291c74c",
+    "bytes": 2877
+  },
+  {
+    "path": "src/playback_common.py",
+    "sha256": "bb12d6308243c712f4595c00daff3f4ade0436c24e4f8553db70387f94734ed7",
+    "bytes": 69
+  },
+  {
+    "path": "src/Player.cs",
+    "sha256": "a4383c8eab206418e5e082cc7053bd9486ffb3e6a51c68339b8f1595c08d6a60",
+    "bytes": 4777
+  },
+  {
+    "path": "src/poster_atlas.py",
+    "sha256": "e9fbfbb103115fdd393b779d10088877130fd7bffd7269c5efda703d1bb11eba",
+    "bytes": 820
+  },
+  {
+    "path": "src/private_catalogue.py",
+    "sha256": "ce1af555bbc84368fcf365e18ceb99bcfba9e740ddb1000e62dfc35a1850ebd3",
+    "bytes": 3364
+  },
+  {
+    "path": "src/private_world.py",
+    "sha256": "7a1f0473dfc2da890fa140125cf8c45815ba71b934898c23c9a88c3a8cef0a59",
+    "bytes": 11398
+  },
+  {
+    "path": "src/server_connection.py",
+    "sha256": "efb0bb823c87a98b5f8fc616a594dcae467d3ff34dd7e76c386d6c3b41d0cedd",
+    "bytes": 1988
+  },
+  {
+    "path": "src/service_entry.py",
+    "sha256": "2bb17be8732eeee9a06b2db9743f535aea6058b33cbbf2f113cbdbc07b841935",
+    "bytes": 2036
+  },
+  {
+    "path": "src/shared_catalogue.py",
+    "sha256": "62594b7ac485f49cd8b9c5b17628e5c4f6cb0577a722decc546af2fb635d9c65",
+    "bytes": 7052
+  },
+  {
+    "path": "src/shared_catalogue_http.py",
+    "sha256": "a9076e76ca75ff0e2c6737204de284f629af103e52d8a20bbfe9d85c507ab6cc",
+    "bytes": 5960
+  },
+  {
+    "path": "src/shared_provider.py",
+    "sha256": "1a2c2cc4b4acdca3db857f2b60702c77766fa152eac60e903d1613fef5a73dd6",
+    "bytes": 3277
+  },
+  {
+    "path": "src/shared_visit.py",
+    "sha256": "f4f13794f179028fca584c8889102d54db66716dece74519691fac5abd8a46d9",
+    "bytes": 1539
+  },
+  {
+    "path": "src/Start here.html",
+    "sha256": "9f3d5b2abe0c251acfb2ff34b8a6959e1e1e460b70610feacbbbb9fd5b7074e6",
+    "bytes": 3709
+  },
+  {
+    "path": "src/style.css",
+    "sha256": "faa6ace1e37e0ecca12464c18f62becd2d252dcd9d04304a3b5c50e20fbef83d",
+    "bytes": 5438
+  },
+  {
+    "path": "src/vesper-app-icon.png",
+    "sha256": "1f5a52d86dea2544ed0c09eb3e79b211721f9d2b3374bcaf0739483ca9990914",
+    "bytes": 1241358
+  },
+  {
+    "path": "src/vesper-logo.png",
+    "sha256": "63cfcf1c5f5d5a5d94d2421ce923915525e38a6c2417cdc83294b467d9944ddd",
+    "bytes": 10449
+  },
+  {
+    "path": "src/vesper.ico",
+    "sha256": "2dfaf833ac12faab908d489e46964f7cc5a95f1e408fbaba3bbba39a16b6b056",
+    "bytes": 97546
+  },
+  {
+    "path": "src/world_session.py",
+    "sha256": "8c4b91518f4c899bd3d7e4bfc1ea2214a53faee1533a6379c1e4db6b78af0042",
+    "bytes": 4326
+  },
+  {
+    "path": "tests/login-flow.cjs",
+    "sha256": "39c027694c9806b2328bda938d876212f146153e3390e2acc5d0b87a6c6493b0",
+    "bytes": 1843
+  },
+  {
+    "path": "tests/test_audio_language.py",
+    "sha256": "7d06749ffab1957fbb57dc44709aaa9489d30c2843413a8c72a1dc757e2bb036",
+    "bytes": 729
+  },
+  {
+    "path": "tests/test_connector.py",
+    "sha256": "8dbc9a314c7c81ec01c25a0d492fca34191a134c64b6a7a801b4577a9134628d",
+    "bytes": 6586
+  },
+  {
+    "path": "tests/test_episode_sequence.py",
+    "sha256": "c0f00a0ebb84365ad2c87af702d0f196173d384be1393eba835461d29e51ec70",
+    "bytes": 4859
+  },
+  {
+    "path": "tests/test_jellyfin_transport.py",
+    "sha256": "44cc115b5019f217f7c0c02ac0b6b3d105ca55492b4b1b612857bde218504390",
+    "bytes": 3400
+  },
+  {
+    "path": "tests/test_poster_atlas.py",
+    "sha256": "c5269c5e3c1e595a24c244b32445b7388203a3873178c86759276f455f88f9c8",
+    "bytes": 898
+  },
+  {
+    "path": "tests/test_server_connection.py",
+    "sha256": "efb8bf164a97b787b15af31d8759a5f9864324d3d479f24aeac9fb2c12424991",
+    "bytes": 2928
+  },
+  {
+    "path": "tests/test_shared_catalogue.py",
+    "sha256": "f6bfefaaa2cc9ee18f6d1d5d9e2fbfbc13b0693798d3cd71071fb4d111e260d7",
+    "bytes": 4238
+  },
+  {
+    "path": "tests/test_shared_provider.py",
+    "sha256": "fdd8cf5e59e2cd8193f653a048bbafaa4f0027695146e9cc440693f4b5a3b735",
+    "bytes": 1969
+  }
+]

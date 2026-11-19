@@ -1,0 +1,14 @@
+.venv/
+build/
+dist/
+Data/
+__pycache__/
+*.pyc
+*.log
+world-session-client.json
+vrchat-private-menu-test.log
+*.msi
+*.exe
+*.wixobj
+*.wixpdb
+tools/
